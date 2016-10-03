@@ -101,7 +101,7 @@ eloquaActivities <- list(
     "EmailSendType" =  "{{Activity.Field(EmailSendType)}}"
   ),
 
-  EmailClick = list(
+  EmailClickthrough = list(
     "ActivityId" =  "{{Activity.Id}}",
     "ActivityType" =  "{{Activity.Type}}",
     "ActivityDate" =  "{{Activity.CreatedAt}}",
